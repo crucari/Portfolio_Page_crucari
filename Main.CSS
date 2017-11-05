@@ -1,0 +1,257 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: #21a1c7;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #0c0c0c;
+
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: 14px;
+  text-align: center;
+  
+}
+
+h3 {
+  font-family: "Merriweather", serif;
+  font-size: 28px;
+  text-align: center;
+  
+
+}
+
+
+
+.Experience {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  
+}
+
+/* Start of Nav Bar CSS */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+
+.active {
+  background-color: #277d8d;
+}
+
+/* End of Navigation Bar CSS */
+
+#AboutMe #container {
+  text-align: center;
+}
+
+#profile #container {
+  text-align: center;
+}
+
+#Volunteer #container {
+  text-align: center;
+}
+
+#Experience #container {
+  text-align: center;
+}
+#social #container {
+  text-align: center;
+}
+
+#social #container ul {
+  float: left;
+}
+
+#social #container ul li {
+  float: left;
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  align-items: center:
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+/* Twitter-Start */
+.fa-twitter {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*Hover effect*/
+.fa-twitter:hover {
+  opacity: 0.7;
+}
+
+/* Twitter Color */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+/* Twitter-End */
+
+/* Instagram-Start */
+.fa-Instagram {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*Hover effect*/
+.fa-instagram:hover {
+  opacity: 0.7;
+}
+
+/* Instagram Color */
+.fa-instagram {
+  background: #c23adb;
+  color: white;
+}
+/* Instagram-End */
+
+/* Reddit-Start */
+.fa-reddit {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*Hover effect*/
+.fa-reddit:hover {
+  opacity: 0.7;
+}
+
+/* Reddit Color */
+.fa-reddit {
+  background: #db1717;
+  color: white;
+}
+/* Reddit-End */
+
+/* linkedin-Start */
+.fa-linkedin {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/*Hover effect*/
+.fa-linkedin:hover {
+  opacity: 0.7;
+}
+
+/* linkedin Color */
+.fa-linkedin {
+  background: #273584;
+  color: white;
+}
+/* linkedin-End */
+
+.footer {
+  background-color: #0086ad;
+  padding: 10px;
+  font-family: "Merriweather", serif;
+  font-size: 25px;
+  text-align: center;
+  
+  
+}
+
+.social {
+    background-color: #0086ad;
+    padding: 10px;
+    font-family: "Merriweather", serif;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+.animals {
+    background-color: #0086ad;
+    padding: 10px;
+    font-family: "Merriweather", serif;
+    font-size: 25px;
+    text-align: center;
+
+
+  }
+
+
+.main {
+  background-color: #0086ad;
+  padding: 10px;
+  font-family: "Merriweather", serif;
+  font-size: 25px;
+  text-align: center;
+
+}
+
+
+
+
+
